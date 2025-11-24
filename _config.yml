@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu-Bang Zheng (郑玉棒) | SWJTU"
+title                    : "Hao Zhang (张浩) | SWJTU"
 description              : "<br>"
-repository               : "yubangzheng/yubangzheng.github.io"
+repository               : "haozhangSWJTU-SCAI/haozhangfy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>Yu-Bang Zheng</center> <center>(郑玉棒)</center>"
+  name             : "<center>Hao Zhang</center> <center>(张浩)</center>"
   avatar           : "images/yubangzheng.jpg"
   bio              : "<center>Southwest Jiaotong University (SWJTU)<center>"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=3KH22NkAAAAJ"
+  googlescholar    : 
   email            : 
   researchgate     : "https://www.researchgate.net/profile/Yu-Bang-Zheng-2"
   url              : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yubangzheng"
+  github           : "haozhangSWJTU-SCAI"
   google_plus      :
   keybase          :
   instagram        :
