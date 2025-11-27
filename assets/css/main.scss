@@ -110,35 +110,23 @@ h1:before, .anchor:before {
 
 /* ---- 强制放大头像，突破主题默认最大宽度 ---- */
 
-/* 扩大 sidebar 容器 */
+/* 扩大侧栏宽度 */
 .sidebar {
-  flex: 0 0 420px !important;   /* 想更大改数字：450 / 480 都可以 */
-  max-width: 420px !important;
+  max-width: 420px !important;   /* 默认260，这里拉到420，可继续调 */
+  flex: 0 0 420px !important;
 }
 
-/* 扩大头像外层容器 */
+/* 扩大头像显示容器 */
 .author__avatar {
   width: 100% !important;
-  max-width: 420px !important;  /* 与 sidebar 宽度一致 */
-  margin: 0 auto 1.5rem auto !important;
-  text-align: center !important;
+  display: flex !important;
+  justify-content: center !important;
 }
 
-/* 放大头像图片本体 */
+/* 扩大头像图片本体 */
 .author__avatar img {
-  width: 420px !important;      /* 决定头像的真实宽度 */
-  max-width: 420px !important;
+  width: 380px !important;    /* 想再大就改这里，比如 450 / 500 */
   height: auto !important;
-  border-radius: 0 !important;  /* 取消圆形 */
+  border-radius: 0 !important; /* 不裁成圆形 */
   object-fit: contain !important;
-}
-
-/* 取消主题给 sidebar 内容的额外缩放限制 */
-.author__content {
-  max-width: 100% !important;
-}
-
-/* 临时实验：确认 CSS 是否生效，改完重新部署后看一下页面边上是不是多了一圈红框 */
-body {
-  border: 5px solid red !important;
 }
