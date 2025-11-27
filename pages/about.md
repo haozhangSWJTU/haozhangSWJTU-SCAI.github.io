@@ -60,7 +60,7 @@ E-mail: <aronzhangfy@163.com>&emsp; [学校主页](https://faculty.swjtu.edu.cn/
 
 - Chuan Wang, Xi-Le Zhao\*, **Hao Zhang**, Ben-Zheng Li, \"Hyperspectral Image Mixed Noise Removal via Nonlinear Transform-Based Block-Term Tensor Decomposition\", _IEEE Geoscience and Remote Sensing Letters_, 2023, 20: Art. no. 5502605 [[Website]](https://ieeexplore.ieee.org/document/10065468)
 
-- **Hao Zhang**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, Yu-Bang Zheng, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, 2023, 61: Art. no. 5502313 [[Website]](https://ieeexplore.ieee.org/document/10019288) [[Website]](https://link.springer.com/article/10.1007/s10915-022-02009-0)
+- **Hao Zhang**, Ting-Zhu Huang\*, Xi-Le Zhao\*, Wei He, Jae Kyu Choi, Yu-Bang Zheng, \"Hyperspectral Image Denoising: Reconciling Sparse and Low-Tensor-Ring-Rank Priors in the Transformed Domain\", _IEEE Transactions on Geoscience and Remote Sensing_, 2023, 61: Art. no. 5502313 [[Website]](https://ieeexplore.ieee.org/document/10019288)
 
 - Tai-Xiang Jiang, Xi-Le Zhao, **Hao Zhang**, Michael K. Ng\*, \"Dictionary Learning With Low-Rank Coding Coefficients for Tensor Completion\", _IEEE Transactions on Neural Networks and Learning Systems_, 2023, 34(2): 932-946 [[Website]](https://ieeexplore.ieee.org/document/9525838)
 
@@ -96,7 +96,7 @@ E-mail: <aronzhangfy@163.com>&emsp; [学校主页](https://faculty.swjtu.edu.cn/
 
 # Awards and Honors
 
-- Outstanding Student of UESTC (<span style="color:red">成电杰出学生</span>)，2024
+- Outstanding Student of UESTC (成电杰出学生)，2024
 - Outstanding Graduate Student of Sichuan Province (四川省优秀毕业生)，2025
 - National Scholarship for Graduate Students (国家奖学金)，2020，2024
 - UESTC First-Class Academic Scholarship (学业一等奖学金)，2020，2022，2024
