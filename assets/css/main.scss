@@ -108,28 +108,28 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* ===== 放大左侧头像和侧栏（推荐参数） ===== */
+/* ===== 超大侧栏头像效果 ===== */
 
-/* 稍微再加宽一点侧栏 */
+/* 侧栏加宽，让头像有足够空间 */
 .sidebar {
-  flex: 0 0 420px !important;
-  max-width: 420px !important;
+  flex: 0 0 520px !important;   /* 比之前的 360/420 明显扩大 */
+  max-width: 520px !important;
 }
 
-/* 头像外层容器：居中显示 */
+/* 头像容器居中 */
 .author__avatar {
   display: block !important;
   text-align: center !important;
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem !important;
 }
 
-/* 头像图片本体 */
+/* 头像本体强化宽度 */
 .author__avatar img {
-  width: 100% !important;       /* 占满 sidebar 宽度 */
-  max-width: 400px !important;  /* 在大屏上最多 400 */
+  width: 100% !important;       /* 吃满侧栏 */
+  max-width: 600px !important;  /* 头像最大宽度，超明显！ */
   height: auto !important;
-  border-radius: 0 !important;  /* 取消圆形 */
-  object-fit: cover !important;
+  border-radius: 0 !important;  /* 保持方形，不剪裁 */
+  object-fit: cover !important; /* 保证画面填满，不变形 */
+  box-shadow: 0 0 12px rgba(0,0,0,0.2); /* 让头像更突出 */
 }
-
 
